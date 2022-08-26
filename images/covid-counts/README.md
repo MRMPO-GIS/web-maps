@@ -11,3 +11,6 @@ https://mrmpo-gis.github.io/web-maps/images/covid-counts/SEHeights_PopUp.jpg
 https://mrmpo-gis.github.io/web-maps/images/covid-counts/SV_PopUp.jpg  
 https://mrmpo-gis.github.io/web-maps/images/covid-counts/SWMesa_PopUp.jpg  
 https://mrmpo-gis.github.io/web-maps/images/covid-counts/VC_PopUp.jpg  
+
+Large:
+https://mrmpo-gis.github.io/web-maps/images/covid-counts/CBD_PopUp_1017x449.jpg

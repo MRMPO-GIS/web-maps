@@ -1,5 +1,5 @@
-Images for Covid Count pop-ups:
-https://mrmpo-gis.github.io/web-maps/images/covid-counts/CBD_PopUp.jpg
+Images for Covid Count pop-ups:  
+https://mrmpo-gis.github.io/web-maps/images/covid-counts/CBD_PopUp.jpg  
 https://mrmpo-gis.github.io/web-maps/images/covid-counts/FNEHeights_PopUp.jpg
 https://mrmpo-gis.github.io/web-maps/images/covid-counts/FNV_PopUp.jpg
 https://mrmpo-gis.github.io/web-maps/images/covid-counts/JC_PopUp.jpg
